@@ -1,4 +1,6 @@
 # SuperFish Removal Utility
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fsuperfishremoval.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fsuperfishremoval?ref=badge_shield)
+
 
 SuperFish was pre-installed on a limited group of Lenovo branded notebooks  beginning  September, 2014.  Lenovo recommends removing SuperFish and the SuperFish certificates from all systems.   
 
@@ -13,6 +15,9 @@ This utility will completely analyze your system for this problem and remove the
   - [Lenovo Security Advisory](http://support.lenovo.com/us/en/product_security/superfish)
   - [Lenovo Statement](http://news.lenovo.com/article_display.cfm?article_id=1929)
   - [Lenovo License Agreement](http://support.lenovo.com/us/en/documents/ht100141)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fsuperfishremoval.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fsuperfishremoval?ref=badge_large)
 
 #### Version
 1.0.8.0
